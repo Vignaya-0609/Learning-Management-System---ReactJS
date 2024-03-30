@@ -1,0 +1,15 @@
+@use '../abstracts/variable' as v;
+
+@mixin btn-color{
+    background-color: v.$btn-color !important;
+    color:v.$btn-text-color !important;
+    font-weight: 600 !important;
+}
+@mixin btn-color-hover{
+    background-color: v.$btnColorHover !important;
+    color:v.$btn-text-color !important;
+}
+@mixin img-size($width:560px,$height:400px){
+    width:$width;
+    height:$height;
+}
