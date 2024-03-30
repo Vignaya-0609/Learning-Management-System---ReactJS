@@ -1,0 +1,60 @@
+@use '../abstracts/variable' as v;
+@use '../abstracts/mixin' as mx;
+
+// login page
+.featured-image img{
+    @include mx.img-size;
+}
+@media screen and (max-width:1000px){
+    .box-area{
+        height:80vh;
+    }
+    .size{
+        font-size: 1rem !important;
+    }
+    .right-box{
+        height:400px;
+        .rightside{
+            margin-top: 0%;
+        }
+    }
+    .featured-image img{
+        @include mx.img-size(340px,410px);
+    }
+}
+@media screen and (width:768px){
+    .box-area{
+        height:85vh;
+    }
+    .size{
+        font-size: 1rem !important;
+    }
+    .right-box{
+        height:300px;
+        .rightside{
+            margin-top: 1%;
+        }
+    }
+}
+@media screen and (max-width:767px){
+    .left-box{
+        height:0px;
+        overflow: hidden;
+    }
+    .size{
+        font-size: 0.7rem !important;
+    }
+    .right-box{
+        padding:7px;
+        .rightside{
+            margin-top: 0%;
+        }
+    }
+    .header-text h3,p{
+        font-size: 1rem !important;
+        margin-bottom: 0;
+    }
+    .mybtn{
+        margin-bottom: 1px !important;
+    }
+}
