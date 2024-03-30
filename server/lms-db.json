@@ -1,0 +1,1135 @@
+{
+  "userList": [
+    {
+      "id": "user2",
+      "username": "David",
+      "email": "david@gmail.com",
+      "password": "david@123",
+      "usertype": "instructor",
+      "coursename": [
+        {
+          "id": "course1",
+          "name": "HTML"
+        },
+        {
+          "id": "course2",
+          "name": "CSS"
+        }
+      ],
+      "education": "CSE",
+      "phoneno": ""
+    },
+    {
+      "id": "user3",
+      "username": "Ani",
+      "email": "ani@gmail.com",
+      "password": "ani@12345",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "course1",
+          "name": "HTML"
+        },
+        {
+          "id": "course2",
+          "name": "CSS"
+        }
+      ],
+      "education": "B.Tech - IT",
+      "phoneno": "9360631652"
+    },
+    {
+      "id": "user4",
+      "username": "Pooja",
+      "email": "pooja@gmail.com",
+      "password": "Welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "4c58",
+          "name": "ReactJS"
+        },
+        {
+          "id": "course1",
+          "name": "HTML"
+        }
+      ],
+      "education": "CSE",
+      "phoneno": "6785679934"
+    },
+    {
+      "id": "86de",
+      "username": "Manju",
+      "email": "manju@gmail.com",
+      "password": "Welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "course1",
+          "name": "HTML"
+        },
+        {
+          "id": "course2",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "id": "3f6b",
+      "username": "Atchara",
+      "email": "atchu@gmail.com",
+      "password": "Welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "course2",
+          "name": "CSS"
+        },
+        {
+          "id": "60fe",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "c770",
+      "username": "dev_admin",
+      "email": "2k20it44@kiot.ac.in",
+      "password": "dev@12345",
+      "usertype": "admin",
+      "coursename": [
+        ""
+      ],
+      "education": "B.TECH - IT",
+      "phoneno": "6785679932"
+    },
+    {
+      "id": "73c8",
+      "username": "Vikki",
+      "email": "vikki@gmail.com",
+      "password": "vignaya@06",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "course2",
+          "name": "CSS"
+        },
+        {
+          "id": "4c58",
+          "name": "ReactJS"
+        }
+      ]
+    },
+    {
+      "id": "8978",
+      "username": "Kavya",
+      "email": "kavya@gmail.com",
+      "password": "Welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "60fe",
+          "name": "JavaScript"
+        },
+        {
+          "id": "4c58",
+          "name": "ReactJS"
+        },
+        {
+          "id": "course2",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "id": "4aa5",
+      "username": "vignaya",
+      "email": "sakthivignaya06@gmail.com",
+      "password": "vignaya@0609",
+      "usertype": "admin",
+      "coursename": [
+        ""
+      ]
+    },
+    {
+      "id": "7135",
+      "username": "Sakthi",
+      "email": "2k20it44@kiot.ac.in",
+      "password": "sakthi@0609",
+      "usertype": "instructor",
+      "coursename": [
+        {
+          "id": "4c58",
+          "name": "ReactJS"
+        },
+        {
+          "id": "60fe",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "18c4",
+      "username": "Gowsi",
+      "email": "2k20it08@kiot.ac.in",
+      "password": "Welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "course1",
+          "name": "HTML"
+        },
+        {
+          "id": "60fe",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "8ef5",
+      "username": "Surendhiran K",
+      "email": "2k20it39@kiot.ac.in",
+      "password": "welcome@123",
+      "usertype": "student",
+      "coursename": [
+        {
+          "id": "60fe",
+          "name": "JavaScript"
+        },
+        {
+          "id": "course2",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "id": "375e",
+      "username": "Chandrasekar",
+      "email": "chandra@gmail.com",
+      "password": "Welcome@123",
+      "usertype": "admin",
+      "coursename": [
+        ""
+      ]
+    }
+  ],
+  "courseList": [
+    {
+      "id": "course1",
+      "coursename": "HTML",
+      "duration": "20",
+      "startdate": "2024-02-01",
+      "enddate": "2024-02-15",
+      "stack": "html, front-end development",
+      "description": "It is one of the most basic building blocks of every website.",
+      "coverphoto": "https://w0.peakpx.com/wallpaper/476/198/HD-wallpaper-code-sad-kjhg.jpg"
+    },
+    {
+      "id": "course2",
+      "coursename": "CSS",
+      "duration": "40",
+      "startdate": "2024-02-10",
+      "enddate": "2024-03-01",
+      "stack": "html,CSS, front-end development",
+      "description": "Style sheet language used for describing the presentation.",
+      "coverphoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxPW995UB1hSxk2Am-wv47AEjREyWLaeC0A&usqp=CAU"
+    },
+    {
+      "id": "4c58",
+      "coursename": "ReactJS",
+      "duration": "150",
+      "startdate": "2024-02-03",
+      "enddate": "2024-02-29",
+      "stack": "JSX, redux",
+      "description": "JS library for building user interfaces based on components",
+      "coverphoto": "https://miro.medium.com/v2/resize:fit:2000/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+    },
+    {
+      "id": "60fe",
+      "coursename": "JavaScript",
+      "duration": "50",
+      "startdate": "2024-02-04",
+      "enddate": "2024-02-13",
+      "stack": "html,css,js",
+      "description": "To create interactive and dynamic web pages",
+      "coverphoto": "https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg"
+    },
+    {
+      "id": "9e06",
+      "coursename": "Figma",
+      "duration": "20",
+      "startdate": "2024-03-28",
+      "enddate": "2024-03-30",
+      "stack": "html, css",
+      "description": "Figma is a browser-based web design tool",
+      "coverphoto": "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"
+    }
+  ],
+  "announcement": [
+    {
+      "id": "40c0",
+      "date": "5/2/2024",
+      "coursename": {
+        "id": "course1",
+        "name": "HTML"
+      },
+      "announcement": "Content Uploaded",
+      "instructor": "David",
+      "instructorId": "user2"
+    },
+    {
+      "id": "39a9",
+      "date": "12/2/2024",
+      "coursename": {
+        "id": "course1",
+        "name": "HTML"
+      },
+      "announcement": "Prepare well for your next assessment",
+      "instructor": "David",
+      "instructorId": "user2"
+    },
+    {
+      "id": "5ceb",
+      "date": "15/2/2024",
+      "coursename": {
+        "id": "course2",
+        "name": "CSS"
+      },
+      "announcement": "Get ready for your assessment",
+      "instructor": "Sakthi",
+      "instructorId": "26d4"
+    },
+    {
+      "id": "5f40",
+      "date": "15/2/2024",
+      "coursename": {
+        "id": "course2",
+        "name": "CSS"
+      },
+      "announcement": "PPT Uploaded",
+      "instructor": "David",
+      "instructorId": "user2"
+    },
+    {
+      "id": "7a56",
+      "date": "17/3/2024",
+      "coursename": {
+        "id": "course1",
+        "name": "HTML"
+      },
+      "announcement": "HTML Assignment posted",
+      "instructor": "David",
+      "instructorId": "user2"
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic1",
+      "courseId": "course1",
+      "name": "Basics"
+    },
+    {
+      "id": "7706",
+      "courseId": "course2",
+      "name": "Topic1"
+    },
+    {
+      "id": "a2d6",
+      "courseId": "course2",
+      "name": "Topic2"
+    },
+    {
+      "id": "ec81",
+      "courseId": "60fe",
+      "name": "Topic1"
+    },
+    {
+      "id": "af71",
+      "courseId": "course2",
+      "name": "Topic3"
+    },
+    {
+      "id": "9d3e",
+      "courseId": "course1",
+      "name": "Semantics"
+    }
+  ],
+  "materials": [
+    {
+      "id": "material1",
+      "topicId": "topic1",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "HTML"
+    },
+    {
+      "id": "2e20",
+      "topicId": null,
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "a808",
+      "topicId": "7706",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "3.CSS_V1.0.pdf"
+    },
+    {
+      "id": "5962",
+      "topicId": "a2d6",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "3.CSS_V1.0.pdf"
+    },
+    {
+      "id": "0fff",
+      "topicId": "7706",
+      "type": "assignment",
+      "url": "https://drive.google.com/file/d/1e54MYigzmJyzK5L1uWlEHn-83xcGHtEw/view?usp=drive_link",
+      "fileName": "KIOT_TechMahindra_TechnicalAssessment_3A_JS_ES6_v0.1.pdf"
+    },
+    {
+      "id": "25a8",
+      "topicId": "ec81",
+      "type": "assignment",
+      "url": "https://drive.google.com/file/d/1e54MYigzmJyzK5L1uWlEHn-83xcGHtEw/view?usp=drive_link",
+      "fileName": "KIOT_TechMahindra_TechnicalAssessment_3A_JS_ES6_v0.1.pdf"
+    },
+    {
+      "id": "db01",
+      "topicId": "ec81",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "JS Notes.pdf"
+    },
+    {
+      "id": "4182",
+      "topicId": null,
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "b205",
+      "topicId": "topic1",
+      "type": "assignment",
+      "url": "https://drive.google.com/file/d/1e54MYigzmJyzK5L1uWlEHn-83xcGHtEw/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "cbe8",
+      "topicId": "af71",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "af81",
+      "topicId": null,
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "580c",
+      "topicId": null,
+      "type": "assignment",
+      "url": "https://drive.google.com/file/d/1e54MYigzmJyzK5L1uWlEHn-83xcGHtEw/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    },
+    {
+      "id": "b7e7",
+      "topicId": "9d3e",
+      "type": "material",
+      "url": "https://drive.google.com/file/d/1BMwZGIzY0OMYM_SFQ4Gkpbq-Cu4FZnS_/view?usp=drive_link",
+      "fileName": "2.HTML _V1.2.pdf"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "4ef4",
+      "userId": "user2",
+      "name": "HTML",
+      "code": "HTML123",
+      "date": "2024-02-16",
+      "time": "30"
+    },
+    {
+      "id": "2a0b",
+      "userId": "26d4",
+      "name": "CSS",
+      "code": "CSS123",
+      "date": "2024-02-17",
+      "time": "30"
+    },
+    {
+      "id": "4cf5",
+      "userId": "user2",
+      "name": "CSS Basics",
+      "code": "css123",
+      "date": "2024-02-16",
+      "time": "30"
+    },
+    {
+      "id": "2296",
+      "userId": "user2",
+      "name": "basics",
+      "code": "code123",
+      "date": "2024-03-28",
+      "time": "30"
+    },
+    {
+      "id": "7ae9",
+      "userId": "user2",
+      "name": "Assessment2",
+      "code": "assess123",
+      "date": "2024-03-29",
+      "time": "30"
+    }
+  ],
+  "questions": [
+    {
+      "id": "665e",
+      "type": "singleChoice",
+      "assessId": "4ef4",
+      "question": "Full Form of HTML",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "Hyper Text Markup Language",
+          "isCorrect": true
+        },
+        {
+          "text": "Hyper Test Mark Lang",
+          "isCorrect": false
+        },
+        {
+          "text": "Hyper Text Module Language",
+          "isCorrect": false
+        },
+        {
+          "text": "Hyper Test Message Language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "b36a",
+      "type": "singleChoice",
+      "assessId": "4ef4",
+      "question": "State whether the given question is true or false. HTML is a scripting language",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "text": "False",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "f4d9",
+      "type": "singleChoice",
+      "assessId": "4ef4",
+      "question": "Which of the following are block-level elements in HTML?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "div",
+          "isCorrect": true
+        },
+        {
+          "text": "span",
+          "isCorrect": false
+        },
+        {
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "text": "img",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "19f9",
+      "type": "multipleChoice",
+      "assessId": "4ef4",
+      "question": "Which of the following HTML tags is used to create a hyperlink?",
+      "marks": 1,
+      "choices": [
+        {
+          "text": "<a>",
+          "isCorrect": true
+        },
+        {
+          "text": "<h1>",
+          "isCorrect": false
+        },
+        {
+          "text": "<p>",
+          "isCorrect": false
+        },
+        {
+          "text": "<div>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "b9e1",
+      "type": "singleChoice",
+      "assessId": "577e",
+      "question": "CSS Full Form",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "Cascading Style Sheets",
+          "isCorrect": true
+        },
+        {
+          "text": "Cascading Style Steel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "1e66",
+      "type": "descriptive",
+      "assessId": "4ef4",
+      "question": "Types of List",
+      "marks": "1",
+      "hint": "Ordered List, Unordered List, Descriptive List"
+    },
+    {
+      "id": "f0f6",
+      "type": "singleChoice",
+      "assessId": "4cf5",
+      "question": "CSS Full Form",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "Cascading Style Sheets",
+          "isCorrect": true
+        },
+        {
+          "text": "Cascading Style Steel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "7140",
+      "type": "singleChoice",
+      "assessId": "2296",
+      "question": "HTML is a scripting language?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "text": "False",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "b5ad",
+      "type": "multipleChoice",
+      "assessId": "2a0b",
+      "question": "Which of the following is NOT a valid CSS selector?",
+      "marks": 2,
+      "choices": [
+        {
+          "text": " .class {}",
+          "isCorrect": false
+        },
+        {
+          "text": "#id {}",
+          "isCorrect": false
+        },
+        {
+          "text": "element {}",
+          "isCorrect": false
+        },
+        {
+          "text": "/selector {}",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "144e",
+      "type": "descriptive",
+      "assessId": "2a0b",
+      "question": "Which CSS property is used to make text italic?",
+      "marks": "2",
+      "hint": "font-style"
+    },
+    {
+      "id": "dd12",
+      "type": "singleChoice",
+      "assessId": "2296",
+      "question": "Which tag is used to define a table row?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "<tr>",
+          "isCorrect": true
+        },
+        {
+          "text": "<td>",
+          "isCorrect": false
+        },
+        {
+          "text": "<table-row>",
+          "isCorrect": false
+        },
+        {
+          "text": "<th>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "b4e4",
+      "type": "singleChoice",
+      "assessId": "2296",
+      "question": "What does the <head> tag contain in an HTML document?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "The main content of the page",
+          "isCorrect": false
+        },
+        {
+          "text": " Metadata about the document, such as its title and links to stylesheets",
+          "isCorrect": true
+        },
+        {
+          "text": "The visible content of the page",
+          "isCorrect": false
+        },
+        {
+          "text": "Scripts and interactive elements",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4eb8",
+      "type": "multipleChoice",
+      "assessId": "2296",
+      "question": "What is the correct HTML for creating a checkbox?",
+      "marks": 1,
+      "choices": [
+        {
+          "text": "<input type=\"checkbox\">",
+          "isCorrect": true
+        },
+        {
+          "text": "<checkbox>",
+          "isCorrect": false
+        },
+        {
+          "text": "<input checkbox>",
+          "isCorrect": false
+        },
+        {
+          "text": "<check>",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "99c9",
+      "type": "descriptive",
+      "assessId": "2296",
+      "question": "What does HTML stand for?",
+      "marks": "1",
+      "hint": "Hyper Text Markup Language"
+    },
+    {
+      "id": "c290",
+      "type": "multipleChoice",
+      "assessId": "7ae9",
+      "question": "How do you include CSS in an HTML document?",
+      "marks": 1,
+      "choices": [
+        {
+          "text": "Using the <script> tag",
+          "isCorrect": false
+        },
+        {
+          "text": "Using the <link> tag",
+          "isCorrect": true
+        },
+        {
+          "text": "Using the <style> tag",
+          "isCorrect": true
+        },
+        {
+          "text": "Using the <a href> tag",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "b9c4",
+      "type": "singleChoice",
+      "assessId": "7ae9",
+      "question": "Which CSS property is used to change the background color of an element?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "color",
+          "isCorrect": false
+        },
+        {
+          "text": "background-color",
+          "isCorrect": true
+        },
+        {
+          "text": "text-color",
+          "isCorrect": false
+        },
+        {
+          "text": "bgcolor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "16cd",
+      "type": "singleChoice",
+      "assessId": "7ae9",
+      "question": "What does the CSS property display: none; do?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "It makes the element invisible but still takes up space",
+          "isCorrect": false
+        },
+        {
+          "text": "It hides the element completely, making it invisible and not taking up any space",
+          "isCorrect": true
+        },
+        {
+          "text": " It aligns the element to the center of its container",
+          "isCorrect": false
+        },
+        {
+          "text": "It changes the element's font to bold",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "511e",
+      "type": "singleChoice",
+      "assessId": "7ae9",
+      "question": "Which CSS property is used to create a border around an element?",
+      "marks": "1",
+      "choices": [
+        {
+          "text": "border",
+          "isCorrect": false
+        },
+        {
+          "text": "border-style",
+          "isCorrect": false
+        },
+        {
+          "text": "border-width",
+          "isCorrect": false
+        },
+        {
+          "text": "All of the above",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "report": [
+    {
+      "id": "1",
+      "name": "Manju",
+      "startDate": "02-01-2024",
+      "completion": "80%",
+      "badge": 250,
+      "courseId": "course1"
+    },
+    {
+      "id": "2",
+      "name": "Pooja",
+      "startDate": "02-01-2024",
+      "completion": "70%",
+      "badge": 200,
+      "courseId": "course1"
+    },
+    {
+      "id": "3",
+      "name": "Atchara",
+      "startDate": "03-01-2024",
+      "completion": "90%",
+      "badge": 300,
+      "courseId": "course1"
+    },
+    {
+      "id": "4",
+      "name": "Ani",
+      "startDate": "03-01-2024",
+      "completion": "80%",
+      "badge": 250,
+      "courseId": "course1"
+    },
+    {
+      "id": "5",
+      "name": "Ravi",
+      "startDate": "02-01-2024",
+      "completion": "75%",
+      "badge": 220,
+      "courseId": "course1"
+    },
+    {
+      "id": "6",
+      "name": "Kavya",
+      "startDate": "02-01-2024",
+      "completion": "80%",
+      "badge": 250,
+      "courseId": "course1"
+    },
+    {
+      "id": "7",
+      "name": "Ani",
+      "startDate": "10-01-2024",
+      "completion": "80%",
+      "badge": 250,
+      "courseId": "course2"
+    },
+    {
+      "id": "8",
+      "name": "Pooja",
+      "startDate": "10-01-2024",
+      "completion": "80%",
+      "badge": 250,
+      "courseId": "course2"
+    },
+    {
+      "id": "9",
+      "name": "Atchara",
+      "startDate": "10-01-2024",
+      "completion": "70%",
+      "badge": 250,
+      "courseId": "course2"
+    },
+    {
+      "id": "10",
+      "name": "Manju",
+      "startDate": "10-01-2024",
+      "completion": "75%",
+      "badge": 250,
+      "courseId": "course2"
+    },
+    {
+      "id": "11",
+      "name": "Sakthi",
+      "startDate": "11-01-2024",
+      "completion": "75%",
+      "badge": 200,
+      "courseId": "4c58"
+    },
+    {
+      "id": "12",
+      "name": "Danial",
+      "startDate": "11-01-2024",
+      "completion": "75%",
+      "badge": 200,
+      "courseId": "4c58"
+    },
+    {
+      "id": "13",
+      "name": "Rohan",
+      "startDate": "11-01-2024",
+      "completion": "75%",
+      "badge": 200,
+      "courseId": "4c58"
+    },
+    {
+      "id": "14",
+      "name": "Gowsi",
+      "startDate": "04-02-2024",
+      "completion": "65%",
+      "badge": 100,
+      "courseId": "60fe"
+    },
+    {
+      "id": "15",
+      "name": "Anu",
+      "startDate": "04-02-2024",
+      "completion": "60%",
+      "badge": 100,
+      "courseId": "60fe"
+    },
+    {
+      "id": "16",
+      "name": "Aravind",
+      "startDate": "04-02-2024",
+      "completion": "70%",
+      "badge": 100,
+      "courseId": "60fe"
+    }
+  ],
+  "publish": [
+    {
+      "id": "2651",
+      "courseId": "course1",
+      "assessId": "4ef4"
+    },
+    {
+      "id": "01a2",
+      "courseId": "course2",
+      "assessId": "4cf5"
+    },
+    {
+      "id": "0c87",
+      "courseId": "course2",
+      "assessId": "2a0b"
+    },
+    {
+      "id": "3fa9",
+      "courseId": "course1",
+      "assessId": "2296"
+    }
+  ],
+  "assessmentCompleted": [
+    {
+      "id": "2fb0",
+      "userId": "user3",
+      "assessmentId": "4ef4",
+      "questions": [
+        {
+          "id": "665e",
+          "type": "singleChoice",
+          "question": "Full Form of HTML",
+          "selectedAnswer": "Hyper Text Markup Language"
+        },
+        {
+          "id": "b36a",
+          "type": "singleChoice",
+          "question": "State whether the given question is true or false. HTML is a scripting language",
+          "selectedAnswer": "False"
+        },
+        {
+          "id": "f4d9",
+          "type": "singleChoice",
+          "question": "Which of the following are block-level elements in HTML?",
+          "selectedAnswer": "div"
+        },
+        {
+          "id": "19f9",
+          "type": "multipleChoice",
+          "question": "Which of the following HTML tags is used to create a hyperlink?",
+          "selectedAnswer": [
+            "<a>"
+          ]
+        },
+        {
+          "id": "1e66",
+          "type": "descriptive",
+          "question": "Types of List",
+          "selectedAnswer": "Ordered List, Unordered List, Descriptive List"
+        }
+      ]
+    },
+    {
+      "id": "ceed",
+      "userId": "user3",
+      "assessmentId": "2a0b",
+      "questions": [
+        {
+          "id": "b5ad",
+          "type": "multipleChoice",
+          "question": "Which of the following is NOT a valid CSS selector?",
+          "selectedAnswer": [
+            "/selector {}"
+          ]
+        },
+        {
+          "id": "144e",
+          "type": "descriptive",
+          "question": "Which CSS property is used to make text italic?",
+          "selectedAnswer": "font-style"
+        }
+      ]
+    },
+    {
+      "id": "b498",
+      "userId": "3f6b",
+      "assessmentId": "2a0b",
+      "questions": [
+        {
+          "id": "b5ad",
+          "type": "multipleChoice",
+          "question": "Which of the following is NOT a valid CSS selector?",
+          "selectedAnswer": [
+            " /selector {}"
+          ]
+        },
+        {
+          "id": "144e",
+          "type": "descriptive",
+          "question": "Which CSS property is used to make text italic?",
+          "selectedAnswer": "font-style"
+        }
+      ]
+    },
+    {
+      "id": "5ca4",
+      "userId": "user3",
+      "assessmentId": "2296",
+      "questions": [
+        {
+          "id": "7140",
+          "type": "singleChoice",
+          "question": "HTML is a scripting language?",
+          "selectedAnswer": "False"
+        },
+        {
+          "id": "dd12",
+          "type": "singleChoice",
+          "question": "Which tag is used to define a table row?",
+          "selectedAnswer": "<tr>"
+        },
+        {
+          "id": "b4e4",
+          "type": "singleChoice",
+          "question": "What does the <head> tag contain in an HTML document?",
+          "selectedAnswer": " Metadata about the document, such as its title and links to stylesheets"
+        },
+        {
+          "id": "4eb8",
+          "type": "multipleChoice",
+          "question": "What is the correct HTML for creating a checkbox?",
+          "selectedAnswer": [
+            "<input type=\"checkbox\">"
+          ]
+        },
+        {
+          "id": "99c9",
+          "type": "descriptive",
+          "question": "What does HTML stand for?",
+          "selectedAnswer": "hiii"
+        }
+      ]
+    }
+  ]
+}
